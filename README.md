@@ -8,7 +8,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/jav1212/jav1212/output/snake.svg" alt="Snake animation" />
+>
 
 ###
